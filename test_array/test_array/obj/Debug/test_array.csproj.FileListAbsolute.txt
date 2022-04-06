@@ -1,0 +1,10 @@
+C:\Users\syrovym.05\source\repos\test_array\test_array\bin\Debug\test_array.exe.config
+C:\Users\syrovym.05\source\repos\test_array\test_array\bin\Debug\test_array.exe
+C:\Users\syrovym.05\source\repos\test_array\test_array\bin\Debug\test_array.pdb
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.csprojAssemblyReference.cache
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.Form1.resources
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.Properties.Resources.resources
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.exe
+C:\Users\syrovym.05\source\repos\test_array\test_array\obj\Debug\test_array.pdb
